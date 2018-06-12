@@ -15,4 +15,4 @@ def print_palmtrees(num):
     sys.stdout.write('\n\n')
 
 
-print_palmtrees(10)
+print_palmtrees(1)
