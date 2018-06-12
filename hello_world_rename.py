@@ -2,7 +2,7 @@ import monkey
 import sys
 #-*- coding:utf-8 -*-
 if __name__=="__main__":
-    print('Hello World')
+    print('Hello you')
     print('Starting to understand git')
     monkey.print_monkeys([0,1,2,3,4,5])
 
